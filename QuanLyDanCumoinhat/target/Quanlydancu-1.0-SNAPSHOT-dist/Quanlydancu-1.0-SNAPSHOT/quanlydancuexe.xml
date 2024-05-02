@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\thehz\OneDrive\Desktop\Documents\NetBeansProjects\Quanlydancu (new ) (2)\QuanLyDanCumoinhat\target\Quanlydancu-1.0-SNAPSHOT-dist\Quanlydancu-1.0-SNAPSHOT\Quanlydancu-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\Users\thehz\OneDrive\Desktop\Documents\NetBeansProjects\Quanlydancu (new ) (2)\QuanLyDanCumoinhat\target\Quanlydancu-1.0-SNAPSHOT-dist\Quanlydancu-1.0-SNAPSHOT\quanlydancu.exe</outfile>
+  <errTitle>errorrrrrr</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.java.com</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\thehz\OneDrive\Desktop\Documents\NetBeansProjects\Quanlydancu (new ) (2)\QuanLyDanCumoinhat\target\Quanlydancu-1.0-SNAPSHOT-dist\Quanlydancu-1.0-SNAPSHOT\images.ico</icon>
+  <singleInstance>
+    <mutexName>quanlydancu</mutexName>
+    <windowTitle>quanlydancu</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Quan Ly Dan Cu</fileDescription>
+    <copyright>DangvaDong</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Quan Ly Dan Cu</productName>
+    <companyName>DDcompany</companyName>
+    <internalName>QuanLyDanCu</internalName>
+    <originalFilename>quanlydancu.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
